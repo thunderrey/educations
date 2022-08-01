@@ -18,3 +18,4 @@ console.log(a !== b);
 
 let bc = "new variable1git";
 let asfd = 1;
+let as = 4;

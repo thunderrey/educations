@@ -16,4 +16,5 @@ let a = 10;
 let b = "10";
 console.log(a !== b);
 
-let bc = "new variable";
+let bc = "new variable1git";
+let asfd = 1;

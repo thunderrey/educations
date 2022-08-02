@@ -16,8 +16,4 @@ let a = 10;
 let b = '10';
 console.log(a !== b);
 
-let bc = 'new variable1git';
-let asfd = 1;
-let as = 4;
-let newvar = 5;
-let newnnew = 1;
+console.log('Олег пуль');

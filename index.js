@@ -20,5 +20,6 @@ let s = 1;
 let d = '1';
 
 console.log('edit oleg file');
-
 console.log('Олег пуль');
+
+let asd = 111;

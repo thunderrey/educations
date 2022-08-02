@@ -16,6 +16,9 @@ let a = 10;
 let b = '10';
 console.log(a !== b);
 
+let s = 1;
+let d = '1';
+
 console.log('edit oleg file');
 
 console.log('Олег пуль');

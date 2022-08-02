@@ -14,7 +14,7 @@ storeDescription.products['product 3'] = 3000;
 
 let a = 10;
 let b = '10';
-console.log(a !== b);
+console.log(b !== b);
 
 let s = 1;
 let d = '1';

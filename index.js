@@ -19,5 +19,4 @@ console.log(a !== b);
 let bc = 'new variable1git';
 let asfd = 1;
 let as = 4;
->>>>>>> 5833381955ad8eeb362370bd26857ebe0a00c0e0
 let newvar = 5;
